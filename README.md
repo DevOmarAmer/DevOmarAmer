@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Recent Computer Science graduate from **Matrouh University** (2024)  
+🎓 Computer Science graduate from **Matrouh University** (2024)  
 📱 Passionate about **Flutter** and building pixel-perfect, high-performance mobile apps  
 🔥 Experienced with **Firebase**, **RESTful APIs**, **state management**, and **clean architecture**  
 🛠️ I love turning ideas into real working applications  
